@@ -1,0 +1,15 @@
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.csproj.AssemblyReference.cache
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.AssemblyInfoInputs.cache
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.AssemblyInfo.cs
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.csproj.CoreCompileInputs.cache
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\HelloUser_example002.exe
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\HelloUser_example002.deps.json
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\HelloUser_example002.runtimeconfig.json
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\HelloUser_example002.dll
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\ref\HelloUser_example002.dll
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\bin\Debug\net6.0\HelloUser_example002.pdb
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.dll
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\ref\HelloUser_example002.dll
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.pdb
+C:\Users\ekate\Desktop\GeekBrains\С#\Examples\HelloUser_example002\obj\Debug\net6.0\HelloUser_example002.genruntimeconfig.cache
